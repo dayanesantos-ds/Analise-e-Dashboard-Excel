@@ -16,7 +16,7 @@ O dashboard foi desenvolvido para atender tanto **gestores**, na visão estraté
 ---
 
 ## 🎯 Objetivo
-Demonstrar domínio **intermediário/avançado em Excel**, evidenciando a capacidade de transformar dados brutos em informações relevantes para **análise de desempenho comercial e apoio à tomada de decisão**.
+Demonstrar domínio **em Excel**, evidenciando a capacidade de transformar dados brutos em informações relevantes para **análise de desempenho comercial e apoio à tomada de decisão**.
 
 ---
 
